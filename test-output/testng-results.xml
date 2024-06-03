@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-03T16:15:21 IST" name="Default suite" finished-at="2024-06-03T16:17:13 IST" duration-ms="111441">
+    <groups>
+    </groups>
+    <test started-at="2024-06-03T16:15:21 IST" name="Default test" finished-at="2024-06-03T16:17:13 IST" duration-ms="111441">
+      <class name="signUp.TestClassprofileedit">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:signUp.TestClassprofileedit@33d512c1]" started-at="2024-06-03T16:15:21 IST" name="setUp" finished-at="2024-06-03T16:15:30 IST" duration-ms="8555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="editProfile()[pri:0, instance:signUp.TestClassprofileedit@33d512c1]" started-at="2024-06-03T16:15:30 IST" name="editProfile" finished-at="2024-06-03T16:15:30 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editProfile -->
+        <test-method signature="poslogin()[pri:1, instance:signUp.TestClassprofileedit@33d512c1]" started-at="2024-06-03T16:15:30 IST" name="poslogin" finished-at="2024-06-03T16:15:32 IST" duration-ms="1437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- poslogin -->
+        <test-method is-config="true" signature="editProfile()[pri:0, instance:signUp.TestClassprofileedit@33d512c1]" started-at="2024-06-03T16:15:32 IST" name="editProfile" finished-at="2024-06-03T16:15:32 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editProfile -->
+        <test-method signature="details()[pri:2, instance:signUp.TestClassprofileedit@33d512c1]" started-at="2024-06-03T16:15:32 IST" name="details" finished-at="2024-06-03T16:17:13 IST" duration-ms="101014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:signUp.TestClassprofileedit@33d512c1]" started-at="2024-06-03T16:17:13 IST" name="quit" finished-at="2024-06-03T16:17:13 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- signUp.TestClassprofileedit -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
